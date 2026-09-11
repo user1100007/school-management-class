@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyDiXVG4vWFMxwchjN6F-uTWL3HltIuaW_o",
+  authDomain: "service-2026-500aa.firebaseapp.com",
+  databaseURL: "https://service-2026-500aa-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "service-2026-500aa",
+  storageBucket: "service-2026-500aa.firebasestorage.app",
+  messagingSenderId: "57594129873",
+  appId: "1:57594129873:web:8381b731e6f20beb5504f0"
+};
